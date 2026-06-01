@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+Name: B R Bhuvanesh
+
+Roll no. 251DS007
+
+edu mail: brbhuvanesh.251ds007@nitk.edu.in
+=======
 # DeepTrace Project
 Name:B R Bhuvanesh
 Roll no. 251DS007
@@ -97,3 +104,5 @@ git push
 * Keep your code clean, readable, and properly documented wherever necessary.
 
 Happy Learning and All the Best!
+
+>>>>>>> 46308a38b42e234358b31c428639eaac1198c0f8
