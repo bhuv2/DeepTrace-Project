@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 =======
 # DeepTrace Project
 Name:B R Bhuvanesh
@@ -101,5 +100,3 @@ git push
 * Keep your code clean, readable, and properly documented wherever necessary.
 
 Happy Learning and All the Best!
-
->>>>>>> 46308a38b42e234358b31c428639eaac1198c0f8
